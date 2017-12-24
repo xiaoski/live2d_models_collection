@@ -10,6 +10,8 @@
 
 以下是模型的预览。虽然看起来是有一点呆呆的感觉。但时间使用时，小人儿会是不是眨眨眼打个哈欠什么的的，会生动很多。比截图好看。
 
+PS:**[在Hexo博客中应用Live2D](http://xiaoxx.info/posts/49585/)**
+
 - chiaki_kitty![chiaki_kitty](https://github.com/xiaoski/live2d_models_collection/raw/master/preview/chiaki_kitty.png)
 - Epsilon![Epsilon](https://github.com/xiaoski/live2d_models_collection/raw/master/preview/Epsilon.png)
 - Kobayaxi![Kobayaxi](https://github.com/xiaoski/live2d_models_collection/raw/master/preview/Kobayaxi.png)
