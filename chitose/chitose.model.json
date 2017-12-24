@@ -1,0 +1,42 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"chitose.moc",
+	"textures":[
+		"chitose.2048/texture_00.png"
+	],
+    "layout":
+	{
+		"center_x":0,
+		"center_y":-0.57,
+		"width":2.6
+	},
+	"motions":{
+		"tap":[
+			{
+				"file":"motions/chitose_handwave.mtn"
+			},
+			{
+				"file":"motions/chitose_kime01.mtn"
+			},
+			{
+				"file":"motions/chitose_kime02.mtn"
+			}
+		],
+		"idle":[
+			{
+				"file":"motions/chitose_idle.mtn"
+			}
+		]
+	},
+	"expressions":[
+		{"name":"F01.exp.json","file":"expressions/F01.exp.json"},
+		{"name":"F02.exp.json","file":"expressions/F02.exp.json"},
+		{"name":"F03.exp.json","file":"expressions/F03.exp.json"},
+		{"name":"F04.exp.json","file":"expressions/F04.exp.json"},
+		{"name":"F05.exp.json","file":"expressions/F05.exp.json"},
+		{"name":"F06.exp.json","file":"expressions/F06.exp.json"},
+		{"name":"F07.exp.json","file":"expressions/F07.exp.json"}
+	],
+	"physics":"chitose.physics.json",
+	"pose":"chitose.pose.json"
+}
